@@ -21,13 +21,12 @@ I have often felt that the search function in news sites aren’t adequate. Espe
 4.	Looks for all the articles within the section provided by the user and matches the regular expression to find all the articles about the query – All articles with the query word in the link-
 5.	Puts all the articles into a list ‘finalist’
 6.	If ‘finalist’ is empty, asks the user to change their query
-7.	Writes final list into a CSV ( as per requirements of the project | The Programm could directly read the article links from the ‘finalist’ but since the project description specifies the need to write it into a CSV or excel file)
-8.	Takes each link and extracts the text, and authors from the article 
-9.	Tokenizes the article text 
-10.	Puts the authors in a list 
-11.	Performs a Frequency distribution of the tokens from all the articles 
-12.	Performs a Frequency distribution on the author's list to get the top authors
-13.	Prints the results 
+7.	Takes each link and extracts the text, and authors from the article 
+8.	Tokenizes the article text 
+9.	Puts the authors in a list 
+10.	Performs a Frequency distribution of the tokens from all the articles 
+11.	Performs a Frequency distribution on the author's list to get the top authors
+12.	Prints the results 
 
 
 
